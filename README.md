@@ -43,7 +43,7 @@
 
 ### 🤳 Connect with Me
 <p align="left">
-  <a href="www.linkedin.com/in/peyton-burns-linkin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/peyton-burns-linkin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
   <a href="mailto:pey.burns98@gmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?logo=protonmail&logoColor=white"/></a>
 </p>
 
