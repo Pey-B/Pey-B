@@ -7,7 +7,7 @@
 
 ### 👩‍💻 Cybersecurity Projects
 
-- 🖥️ **[Active Directory Home Lab (Windows Server 2019 + Windows 10 Client)](https://github.com/Pey-B/ActiveDirectoryLab.)**
+- 🖥️ **[Active Directory Home Lab (Windows Server 2019 + Windows 10 Client)](https://github.com/Pey-B/Active-Directory-Lab)**
 -   🌐 **[Azure Honeypot & Sentinel Attack Map (Cloud SOC Lab)](https://github.com/Pey-B/Azure-Honeypot-Sentinel-Lab)**
 -   🔓 **[VSFTPD Backdoor Exploit Lab](https://github.com/Pey-B/VSFTPD-Backdoor-Exploit-Lab)**
 
