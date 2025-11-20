@@ -1,16 +1,54 @@
-## Hi there 👋
+<!-- Profile README for GitHub -->
+<h1 align="center">Hi, I'm Peyton 👋</h1>
 
-<!--
-**Pey-B/Pey-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Cybersecurity Professional | Blue Team Enthusiast | Continuous Learner</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 Cybersecurity Projects
+
+- 🖥️ **[Active Directory Home Lab (Windows Server 2019 + Windows 10 Client)](https://github.com/Pey-B/ActiveDirectoryLab.)**
+-   🌐 **[Azure Honeypot & Sentinel Attack Map (Cloud SOC Lab)](https://github.com/Pey-B/Azure-Honeypot-Sentinel-Lab)**
+-   🔓 **[VSFTPD Backdoor Exploit Lab](https://github.com/Pey-B/VSFTPD-Backdoor-Exploit-Lab)**
+
+
+---
+
+### 🧾 Certifications
+
+| Certification | Badge |
+|---------------|-------|
+| **CompTIA A+** | ![A+](https://img.shields.io/badge/CompTIA-A%2B-red?logo=comptia&logoColor=white) |
+| **CompTIA Network+** | ![Network+](https://img.shields.io/badge/CompTIA-N%2B-blue?logo=comptia&logoColor=white) |
+| **CompTIA Security+** | ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia&logoColor=white) |
+| **CompTIA CySA+** | ![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-yellow?logo=comptia&logoColor=white) |
+| **CompTIA PenTest+** | ![PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-orange?logo=comptia&logoColor=white) |
+| **(ISC)² SSCP** | ![SSCP](https://img.shields.io/badge/(ISC)%C2%B2-SSCP-brightgreen?logo=isc2&logoColor=white) |
+| **Linux Essentials (LE:1)** | ![Linux Essentials](https://img.shields.io/badge/Linux-Essentials-black?logo=linux&logoColor=white) |
+| **ITIL v4 Foundation** | ![ITIL](https://img.shields.io/badge/ITIL-v4%20Foundation-purple) |
+| **CompTIA Project+** | ![Project+](https://img.shields.io/badge/CompTIA-Project%2B-green?logo=comptia&logoColor=white) |
+
+---
+
+### 🧠 Tools & Technologies
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-2E8B57?logo=linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-0078D7?logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6C37?logo=burpsuite&logoColor=white)
+![Qualys](https://img.shields.io/badge/-Qualys-ED1C24?logo=qualys&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white)
+
+---
+
+### 🤳 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/peyton-burns-linkin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pey.burns98@gmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?logo=protonmail&logoColor=white"/></a>
+</p>
+
+---
+
+💬 *“Security is not a product, but a process.” — Bruce Schneier*  
