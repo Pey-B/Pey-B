@@ -1,7 +1,7 @@
 <!-- Profile README for GitHub -->
 <h1 align="center">Hi, I'm Peyton 👋</h1>
 
-<h3 align="center">Cybersecurity Professional | Blue Team Enthusiast | Continuous Learner</h3>
+<h3 align="center">Cybersecurity Professional | Continuous Learner</h3>
 
 ---
 
