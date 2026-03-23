@@ -1,7 +1,5 @@
 <!-- Profile README for GitHub -->
-<h1 align="center">Hi, I'm Peyton 👋</h1>
-
-<h3 align="center">Cybersecurity Professional | Continuous Learner</h3>
+<h1 align="center">Hi, I'm Peyton 👋 Cybersecurity Professional</h1>
 
 ---
 
@@ -40,8 +38,6 @@
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-0078D7?logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6C37?logo=burpsuite&logoColor=white)
-![Qualys](https://img.shields.io/badge/-Qualys-ED1C24?logo=qualys&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white)
 
 ---
 
